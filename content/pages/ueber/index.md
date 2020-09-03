@@ -1,13 +1,13 @@
 +++
 title = "Über mich"
 draft = false
-description = "Seite über mich"
 image = ""
+description = "Seite über mich"
 +++
 ![](/img/default-author.png)
 
-## Vorname Nachname
+## Tim Walpen
 
-info@lernblog.ch
+mail@timwalpen.ch
 
 Beschreibung, wer ich bin...
