@@ -8,6 +8,6 @@ description = "Seite über mich"
 
 ## Tim Walpen
 
-mail@timwalpen.ch
+
 
 Beschreibung, wer ich bin...
