@@ -1,7 +1,7 @@
 +++
 title = "Mein Terrarium"
 date = "2020-09-09"
-draft = false
+draft = true
 pinned = false
 image = "1.jpg"
 +++
