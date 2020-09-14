@@ -3,6 +3,5 @@ headless = true
 icon = ""
 logo = ""
 image = ""
-color = ""
+color = "#042d64"
 +++
-
