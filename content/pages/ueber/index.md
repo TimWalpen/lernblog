@@ -6,8 +6,6 @@ description = "Seite über mich"
 +++
 ![](/img/default-author.png)
 
-## Tim Walpen
-
-
+## Tim
 
 Beschreibung, wer ich bin...
