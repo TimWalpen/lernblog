@@ -1,7 +1,7 @@
 +++
 title = "Status Update zum Projekt Corona"
 date = "2020-11-12"
-draft = false
+draft = true
 pinned = false
 image = "blog-2.jpg"
 +++
