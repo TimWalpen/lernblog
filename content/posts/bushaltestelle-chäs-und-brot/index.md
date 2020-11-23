@@ -1,5 +1,5 @@
 +++
-title = "Bushaltestelle \"Chäs und Brot\""
+title = "Bedeutung: Bushaltestelle \"Chäs und Brot\""
 date = "2020-11-23"
 draft = false
 pinned = false
