@@ -9,7 +9,7 @@ Seit längerer Zeit, fehlt uns ein TV-Möbel. Da wir kein passendes Möbel gefun
 
 Zusammen mit  meinem Vater habe ich Ideen gesammelt, wie wir das Möbel bauen könnten. Wir haben eine Skizze gezeichnet und haben uns für ein rustikales Massivholzmöbel aus Eichenbretter entschieden.
 
-Die Bretter haben wir im Baumarkt meines Vertrauens für Fr. 45.00 gekauft.  Als erstes, habe ich die Bretter auf die richtigen Masse zu geschnitten. Anschliessend machte ich mit der Lamellomaschine die Eckverbindungen.
+Die Bretter haben wir im Baumarkt meines Vertrauens für Fr. 45.00 gekauft.  Als erstes, habe ich die Bretter auf die richtigen Masse zugeschnitten. Anschliessend machte ich mit der Lamellomaschine die Eckverbindungen.
 
 ![](img_7730.jpg)
 
