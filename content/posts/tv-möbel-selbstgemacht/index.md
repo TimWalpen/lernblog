@@ -1,7 +1,7 @@
 +++
 title = "TV-Möbel selbstgemacht!"
 date = "2020-12-08"
-draft = false
+draft = true
 pinned = false
 image = "img_7734.jpg"
 +++
