@@ -10,4 +10,4 @@ Zusammen mit  meinem Vater habe ich Ideen gesammelt, wie wir das Möbel bauen k�
 
 Die Bretter haben wir im Baumarkt meines Vertrauens für Fr. 45.00 gekauft.  Als erstes, habe ich die Bretter auf die richtigen Masse zu geschnitten. Anschliessend machte ich mit der Lamellomaschine die Eckverbindungen.
 
-Als nächstes habe ich und mein Vater die Bretter verleimt. Über Nacht, konnte der Leim trocknen. Nun habe ich das Möbel und die Kanten nicht zu rund und eckig geschliffen.
+Als nächstes habe ich und mein Vater die Bretter verleimt. Über Nacht, konnte der Leim trocknen. Nun habe ich das Möbel und die Kanten nicht zu rund und eckig geschliffen. Ich habe nun den Schleifstaub entfernt und mit einem Naturöl das Möbel geölt.
