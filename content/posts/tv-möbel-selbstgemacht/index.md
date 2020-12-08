@@ -15,3 +15,5 @@ Als nächstes habe ich und mein Vater die Bretter verleimt. Über Nacht, konnte 
 Nach fünf Stunden Trocknungszeit, war mein Projekt fertig.
 
 Mein Bruder und meine Mutter finden das Möbel spitze und konnten es nicht glauben, dass ich dieses Möbel fast alleine gebaut habe.
+
+**Ich bin der Meinung, dass es sich lohnt ein Möbel selbst zu bauen da es Spass macht , sehr preiswert ist und zudem super aussieht.**
