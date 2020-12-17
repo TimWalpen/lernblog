@@ -1,7 +1,7 @@
 +++
 title = "Meine Erfahrungen zu unserem Corona-Projekt"
 date = "2020-12-15"
-draft = true
+draft = false
 pinned = false
 image = "pexels-anna-shvets-4167544-1-1-1-.jpg"
 +++
