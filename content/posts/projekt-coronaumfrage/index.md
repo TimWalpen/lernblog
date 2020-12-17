@@ -6,10 +6,10 @@ pinned = false
 image = "unben476523578annt.png"
 description = ""
 +++
-###### Projekt: Coronaumfrage												
+###### Projekt: Coronaumfrage
+
 Auswertung der Umfrage (befragt wurden 100 Personen)     
 
-###### \    
 Gerne teilen wir Euch die spannenden und interessanten Ergebnisse unserer Umfrage mit.
 
 ![](53434t763456789087654556789.png)
@@ -21,5 +21,3 @@ Gerne teilen wir Euch die spannenden und interessanten Ergebnisse unserer Umfrag
 ![](hfgbfggbfghjgfhfgbhbfgzuhfgbhgfbhjgfbfhb.png)
 
 ![](fguhgwzfgwtfgt72zfgb.png)
-
-######
