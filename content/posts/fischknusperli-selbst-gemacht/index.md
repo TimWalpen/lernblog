@@ -19,3 +19,7 @@ Cornflakes grob zerbröseln, in einen flachen Teller geben Fisch im Mehl wenden,
 im Ei, dann in den Cornflakes wenden, Panade gut andrücken und auf das Blech legen. 
 
 10 Min in der oberen Hälfte des Ofens backen.
+
+
+
+Ich habe dazu Salat und Pommes serviert. Ä Guetä mitänand.
