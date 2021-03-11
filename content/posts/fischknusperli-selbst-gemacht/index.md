@@ -3,6 +3,7 @@ title = "Fischknusperli selbst gemacht!"
 date = "2021-03-11"
 draft = true
 pinned = false
+image = "img_8161.jpg"
 +++
 Ich habe vor längerer Zeit ein YouTube Koch-Video angesehen, bei welchem sie Fischknusperli gemacht haben.         Dies hat mich inspiriert, selbst zu kochen. Deshalb habe ich im Betty Bossi Kochmagazin ein Rezept gesucht und gefunden. Ich fand das Rezept spannend, weil auch Cornflakes als Zutaten verwendet werden. Deshalb habe ich        am letzten Sonntag für meine Familie gekocht. Alle fanden das Essen super und deshalb teile ich das Rezept mit euch. 
 
@@ -23,3 +24,11 @@ im Ei, dann in den Cornflakes wenden, Panade gut andrücken und auf das Blech le
 
 
 Ich habe dazu Salat und Pommes serviert. Ä Guetä mitänand.
+
+![](img_5266.jpg)
+
+![](img_5268.jpg)
+
+![](img_5269.jpg)
+
+![](img_8160.jpg)
