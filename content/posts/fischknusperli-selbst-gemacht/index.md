@@ -4,4 +4,4 @@ date = "2021-03-11"
 draft = true
 pinned = false
 +++
-Ich habe vor längerer Zeit ein YouTube Koch-Video angesehen, bei welchem sie Fischknusperli gemacht haben.         Dies hat mich inspiriert, selbst zu kochen. Deshalb habe ich im Betty Bossi Kochmagazin ein Rezept gesucht und gefunden. Ich fand das Rezept spannend, weil auch Cornflakes als Zutaten verwendet werden.
+Ich habe vor längerer Zeit ein YouTube Koch-Video angesehen, bei welchem sie Fischknusperli gemacht haben.         Dies hat mich inspiriert, selbst zu kochen. Deshalb habe ich im Betty Bossi Kochmagazin ein Rezept gesucht und gefunden. Ich fand das Rezept spannend, weil auch Cornflakes als Zutaten verwendet werden. Deshalb habe ich        am letzten Sonntag für meine Familie gekocht. Alle fanden das Essen super und deshalb teile ich das Rezept mit euch.
