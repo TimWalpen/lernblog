@@ -1,5 +1,5 @@
 +++
-title = "a"
+title = "PC Marke Eigenbau "
 date = "2021-04-30"
 draft = true
 pinned = false
