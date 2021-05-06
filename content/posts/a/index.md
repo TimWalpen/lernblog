@@ -11,8 +11,6 @@ Hier noch den Link zu meinem Video, wie ich denn PC zusammengebaut habe:
 
 <https://www.youtube.com/watch?v=cvYppF0Iln4>
 
-
-
 ![](img-0348-1-.jpg)
 
-![](img-0349.jpg)
+![](img-0349-1-.jpg)
