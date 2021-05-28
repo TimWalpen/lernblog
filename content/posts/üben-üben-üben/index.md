@@ -1,14 +1,12 @@
 +++
-title = "Üben,Üben,Üben"
+title = "Üben, üben, üben"
 date = "2021-05-28"
-draft = true
+draft = false
 pinned = false
 image = "img_8651.jpg"
 +++
-Zur Zeit investiere ich neben verschiedenen Projekten,
-sehr viel Zeit und Energie in das E-Gitarre spielen, beziehungsweise üben. Ich werde in ca. 2 Wochen mein zweiters Musikstück,
-welches sehr schwierig und komplex zum spielen ist, im Tonstudio aufnehmen.
-Falls es dich interessiert reinzuhören, empfehle ich dir, in ein paar wochen meinen Blog mit dem Link zu 
-lesen.
+Zur Zeit investiere ich neben verschiedenen Projekten, sehr viel Zeit und Energie in das E-Gitarre spielen, beziehungsweise üben. Ich werde in ca. 2 Wochen mein zweites Musikstück, welches sehr schwierig und komplex zum spielen ist, im Tonstudio aufnehmen.
+Falls es dich interessiert reinzuhören, empfehle ich dir, in ein paar Wochen meinen Blog mit dem Link zu 
+lesen und hören.
 
-Aber Vorsicht : Es geht richtig ab!
+Aber Vorsicht, es geht richtig ab!
