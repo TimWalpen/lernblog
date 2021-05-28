@@ -3,6 +3,7 @@ title = "Üben,Üben,Üben"
 date = "2021-05-28"
 draft = true
 pinned = false
+image = "img_8651.jpg"
 +++
 Zur Zeit investiere ich neben verschiedenen Projekten,
 sehr viel Zeit und Energie in das E-Gitarre spielen, beziehungsweise üben. Ich werde in ca. 2 Wochen mein zweiters Musikstück,
